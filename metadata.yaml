@@ -1,0 +1,43 @@
+_repo: Guest-the-One-Eyed_62455
+_version: 0.0.1
+alternative_title: Borgslægtens Historie. English
+contributor:
+  translator:
+    agent_name: Worster, W. J. Alexander (William John Alexander)
+    aliases:
+    - Worster, William W.
+    - Worster, W. W.
+    - Worster, William John Alexander
+    birthdate: 1882
+    deathdate: 1929
+    gutenberg_agent_id: '2514'
+    url: http://www.gutenberg.org/2009/agents/2514
+creator:
+  author:
+    agent_name: Gunnarsson, Gunnar
+    alias: Gunnarsons, Gunnars
+    birthdate: 1889
+    deathdate: 1975
+    gutenberg_agent_id: '51781'
+    url: http://www.gutenberg.org/2009/agents/51781
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gunnar_Gunnarsson
+    - https://is.wikipedia.org/wiki/Gunnar_Gunnarsson
+description: ''
+gutenberg_issued: '2020-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62455'
+  lccn: '22004433'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Iceland -- Fiction'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: Ormarr Ørlygsson -- The Danish lady at Hof -- Guest the One-eyed
+  -- The young eagle.
+title: Guest the One-Eyed
+url: http://www.gutenberg.org/ebooks/62455
